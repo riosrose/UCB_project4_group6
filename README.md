@@ -51,9 +51,8 @@ Models Explored
 
 Dataset
 
-The dataset consists of NBA player playoff statistics from 2007 to 2024, with around 210 data points per year. The independent variables include:
-•	Performance Metrics: MIN (Minutes Played), OFFRTG (Offensive Rating), DEFRTG (Defensive Rating), TS% (True Shooting Percentage), USG% (Usage Percentage), AST% (Assist Percentage), etc.
-•	Dependent Variable: Player Impact Estimate (PIE).
+The dataset consists of xxxx independent variables include:
+
 Project Files
 •	xx
 •	xx

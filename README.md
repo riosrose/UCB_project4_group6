@@ -4,7 +4,7 @@ Project-4
 Unlocking Box Office Success: Predicting Movie Popularity
 
 
-This project seeks to predict movie popularity scores by leveraging advanced machine learning models. By analyzing a rich dataset of historical movie data, our models will uncover the key factors driving a movie's success, offering critical insights for producers and marketers.
+This project xxxxx
 
 Project Overview 
 
